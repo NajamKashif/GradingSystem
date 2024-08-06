@@ -1,0 +1,21 @@
+C:\Users\Bilal Mazar\Documents\Visual Studio 2015\Projects\Grading_System_21\Grading_System_21\bin\Debug\Grading_System_21.exe.config
+C:\Users\Bilal Mazar\Documents\Visual Studio 2015\Projects\Grading_System_21\Grading_System_21\obj\Debug\Grading_System_21.csprojResolveAssemblyReference.cache
+C:\Users\Bilal Mazar\Documents\Visual Studio 2015\Projects\Grading_System_21\Grading_System_21\obj\Debug\Grading_System_21.Form1.resources
+C:\Users\Bilal Mazar\Documents\Visual Studio 2015\Projects\Grading_System_21\Grading_System_21\obj\Debug\Grading_System_21.Properties.Resources.resources
+C:\Users\Bilal Mazar\Documents\Visual Studio 2015\Projects\Grading_System_21\Grading_System_21\obj\Debug\Grading_System_21.student.resources
+C:\Users\Bilal Mazar\Documents\Visual Studio 2015\Projects\Grading_System_21\Grading_System_21\obj\Debug\Grading_System_21.csproj.GenerateResource.Cache
+C:\Users\Bilal Mazar\Documents\Visual Studio 2015\Projects\Grading_System_21\Grading_System_21\bin\Debug\Grading_System_21.exe
+C:\Users\Bilal Mazar\Documents\Visual Studio 2015\Projects\Grading_System_21\Grading_System_21\bin\Debug\Grading_System_21.pdb
+C:\Users\Bilal Mazar\Documents\Visual Studio 2015\Projects\Grading_System_21\Grading_System_21\obj\Debug\Grading_System_21.exe
+C:\Users\Bilal Mazar\Documents\Visual Studio 2015\Projects\Grading_System_21\Grading_System_21\obj\Debug\Grading_System_21.pdb
+F:\Visual Programming\Grading_System_21\Grading_System_21\bin\Debug\Grading_System_21.exe.config
+F:\Visual Programming\Grading_System_21\Grading_System_21\bin\Debug\Grading_System_21.exe
+F:\Visual Programming\Grading_System_21\Grading_System_21\bin\Debug\Grading_System_21.pdb
+F:\Visual Programming\Grading_System_21\Grading_System_21\obj\Debug\Grading_System_21.csproj.AssemblyReference.cache
+F:\Visual Programming\Grading_System_21\Grading_System_21\obj\Debug\Grading_System_21.Form1.resources
+F:\Visual Programming\Grading_System_21\Grading_System_21\obj\Debug\Grading_System_21.Properties.Resources.resources
+F:\Visual Programming\Grading_System_21\Grading_System_21\obj\Debug\Grading_System_21.student.resources
+F:\Visual Programming\Grading_System_21\Grading_System_21\obj\Debug\Grading_System_21.csproj.GenerateResource.cache
+F:\Visual Programming\Grading_System_21\Grading_System_21\obj\Debug\Grading_System_21.csproj.CoreCompileInputs.cache
+F:\Visual Programming\Grading_System_21\Grading_System_21\obj\Debug\Grading_System_21.exe
+F:\Visual Programming\Grading_System_21\Grading_System_21\obj\Debug\Grading_System_21.pdb
